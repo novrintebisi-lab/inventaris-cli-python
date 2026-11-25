@@ -69,4 +69,4 @@ Opsi `--input` (default `data/input.csv`) dan `--output` berlaku untuk semua per
 
 ## 8. Sumber Referensi dan Bantuan AI
 - Dokumentasi Python: argparse, csv, json, logging (docs.python.org).
-- Kerangka dan kode awal dibantu Claude (Anthropic), lalu diuji dan disesuaikan sendiri. *(Sesuaikan catatan ini dengan kontribusimu.)*
+- Kerangka dan kode awal dibantu Claude (Anthropic), lalu diuji dan disesuaikan sendiri. 
