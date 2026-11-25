@@ -1,0 +1,12 @@
+kode,nama,kategori,stok,harga
+ATK01,Pulpen Hitam,atk,50,3000
+ATK02,Buku Tulis A5,atk,8,5500
+ATK03,Penghapus,atk,0,2000
+MIN01,Air Mineral 600ml,minuman,120,3500
+MIN02,Teh Botol,minuman,6,5000
+SNK01,Keripik Singkong,snack,25,9000
+SNK02,Biskuit Cokelat,snack,4,7500
+ATK01,Pulpen Hitam (duplikat),atk,10,3000
+SNK03,Wafer,snack,abc,6000
+ATK04,Penggaris,atk,-5,4000
+,Stapler,atk,3,15000

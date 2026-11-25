@@ -1,0 +1,22 @@
+{
+  "jumlah_jenis": 7,
+  "total_stok": 213,
+  "nilai_total": 899000.0,
+  "per_kategori": {
+    "ATK": {
+      "jumlah_jenis": 3,
+      "total_stok": 58,
+      "nilai_stok": 194000.0
+    },
+    "MINUMAN": {
+      "jumlah_jenis": 2,
+      "total_stok": 126,
+      "nilai_stok": 450000.0
+    },
+    "SNACK": {
+      "jumlah_jenis": 2,
+      "total_stok": 29,
+      "nilai_stok": 255000.0
+    }
+  }
+}
